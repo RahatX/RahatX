@@ -1,4 +1,4 @@
-## Hi there 👋
+Student at North South University
 
 <!--
 **RahatX/RahatX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
