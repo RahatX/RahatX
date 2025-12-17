@@ -4,8 +4,8 @@
 <p align="center">
  
   <a href="https://github.com/RahatX">GitHub</a> •
-  <a href="[https://www.instagram.com/your_rahaat/?next=%2F&hl=en](https://www.facebook.com/raahaaaatt)">X</a>
-  <a href="https://www.instagram.com/your_rahaat/?next=%2F&hl=en">X</a>
+  <a href="[https://www.instagram.com/your_rahaat/?next=%2F&hl=en](https://www.facebook.com/raahaaaatt)">Facebook</a>
+  <a href="https://www.instagram.com/your_rahaat/?next=%2F&hl=en">Instagram</a>
 </p>
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/YOUR_ID" width="200" style="border-radius:50%" />
