@@ -14,7 +14,7 @@
 ---
 
 ## 👋 About Me
-- 🎓 Student at North South University**
+- 🎓 Student at **North South University**
 - 💻 Interested in programming & technology
 - 🌱 Currently improving problem-solving skills
 - 🚀 Exploring software development
