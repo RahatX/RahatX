@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/RahatX" width="160" style="border-radius:50%" />
+  <img src="https://avatars.githubusercontent.com/RahatX" width="150" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Md. Mahmudul Hasan Rahat</h1>
 
 <p align="center">
-  Student at North South University
+  Student at North South University · Aspiring Software Engineer
 </p>
 
 <p align="center">
@@ -16,23 +16,25 @@
 
 ---
 
-### About
+### Overview
 
-I’m a university student with a strong interest in technology and problem-solving.  
-I enjoy learning by building, experimenting, and improving my fundamentals step by step.  
-Currently focusing on writing cleaner code and understanding how real-world systems work.
+I’m a computer science student who values **clarity, consistency, and depth** over shortcuts.  
+I approach programming as a long-term craft — learning fundamentals properly, writing readable code, and improving through repetition.
 
----
-
-### What I’m working on
-- Strengthening core programming concepts  
-- Practicing problem-solving regularly  
-- Exploring web development fundamentals  
+I’m particularly interested in how small, well-written pieces of code scale into reliable systems.
 
 ---
 
-### Tech I use
-- **Languages:** C, C++, Java (basic)
+### Current focus
+- Strengthening problem-solving and algorithmic thinking  
+- Building a solid foundation in software development  
+- Writing cleaner, more maintainable code  
+- Learning how real-world applications are structured  
+
+---
+
+### Technical background
+- **Languages:** C, C++, Java (foundational)
 - **Web:** HTML, CSS
 - **Tools:** Git, GitHub, VS Code
 
@@ -41,15 +43,20 @@ Currently focusing on writing cleaner code and understanding how real-world syst
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahatX&show_icons=true&hide_title=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahatX&show_icons=true&hide_border=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahatX&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahatX&hide_border=true&theme=dark" />
 </p>
 
 ---
 
+### Philosophy
+
+> *Progress comes from showing up consistently, even when no one is watching.*
+
 <p align="center">
-  <sub>Learning consistently, improving quietly.</sub>
+  <sub>Focused on long-term growth.</sub>
 </p>
+
