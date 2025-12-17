@@ -1,36 +1,47 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/RahatX" width="160" style="border-radius:50%" />
+</p>
+
 <h1 align="center">Md. Mahmudul Hasan Rahat</h1>
-<h3 align="center">Student at North South University</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/RahatX" width="200" style="border-radius:50%" />
+  Student at North South University
 </p>
 
 <p align="center">
-  <a href="https://github.com/RahatX">GitHub</a> •
-  <a href="https://www.facebook.com/raahaaaatt">Facebook</a> •
+  <a href="https://github.com/RahatX">GitHub</a> ·
+  <a href="https://www.facebook.com/raahaaaatt">Facebook</a> ·
   <a href="https://www.instagram.com/your_rahaat">Instagram</a>
 </p>
 
 ---
 
-## 👋 About Me
-- 🎓 Student at **North South University**
-- 💻 Interested in programming & technology
-- 🌱 Currently improving problem-solving skills
-- 🚀 Exploring software development
+### About
+
+I’m a university student with a strong interest in technology and problem-solving.  
+I enjoy learning by building, experimenting, and improving my fundamentals step by step.  
+Currently focusing on writing cleaner code and understanding how real-world systems work.
 
 ---
 
-## 🛠 Skills
-- Programming: C, C++, Java (basic)
-- Web: HTML, CSS (learning)
-- Tools: Git, GitHub, VS Code
+### What I’m working on
+- Strengthening core programming concepts  
+- Practicing problem-solving regularly  
+- Exploring web development fundamentals  
 
 ---
 
-## 📊 GitHub Stats
+### Tech I use
+- **Languages:** C, C++, Java (basic)
+- **Web:** HTML, CSS
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### GitHub activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahatX&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahatX&show_icons=true&hide_title=true&theme=dark" />
 </p>
 
 <p align="center">
@@ -39,4 +50,6 @@
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+<p align="center">
+  <sub>Learning consistently, improving quietly.</sub>
+</p>
