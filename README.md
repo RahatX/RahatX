@@ -4,7 +4,7 @@
 <p align="center">
  
   <a href="https://github.com/RahatX">GitHub</a> •
-  <a href="[https://www.instagram.com/your_rahaat/?next=%2F&hl=en](https://www.facebook.com/raahaaaatt)">Facebook</a>
+  <a href="https://www.facebook.com/raahaaaatt">Facebook</a>
   <a href="https://www.instagram.com/your_rahaat/?next=%2F&hl=en">Instagram</a>
 </p>
 <p align="center">
