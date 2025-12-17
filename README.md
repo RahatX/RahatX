@@ -12,8 +12,8 @@
   <a href="https://github.com/RahatX">GitHub</a> ·
   <a href="https://www.facebook.com/raahaaaatt">Facebook</a> ·
   <a href="https://www.instagram.com/your_rahaat">Instagram</a> ·
-  <a href="[https://www.instagram.com/your_rahaat](https://leetcode.com/u/mahmudulrahat/)"> LeetCode</a> ·
-  <a href="[https://www.instagram.com/your_rahaat](https://www.researchgate.net/profile/Md-Rahat-24?ev=prf_overview)"> ResearchGate</a>
+  <a href="https://www.instagram.com/your_rahaat](https://leetcode.com/u/mahmudulrahat/"> LeetCode</a> ·
+  <a href="https://www.instagram.com/your_rahaat](https://www.researchgate.net/profile/Md-Rahat-24?ev=prf_overview"> ResearchGate</a>
 </p>
 
 ---
