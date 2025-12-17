@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/RahatX" width="160" style="border-radius:50%" />
+  <img src="https://avatars.githubusercontent.com/RahatX" width="150" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Md. Mahmudul Hasan Rahat</h1>
@@ -16,32 +16,57 @@
 
 ---
 
-### About
+### Introduction
 
-I’m a university student with a strong interest in technology and problem-solving.  
-I enjoy learning by building, experimenting, and improving my fundamentals step by step.  
-Currently focusing on writing cleaner code and understanding how real-world systems work.
+I’m a university student at **North South University**, currently building a strong foundation in computer science and software development.  
+I value **clarity over shortcuts**, and I’m focused on learning concepts deeply rather than rushing tools.
 
----
-
-### What I’m working on
-- Strengthening core programming concepts  
-- Practicing problem-solving regularly  
-- Exploring web development fundamentals  
+This profile documents my learning journey — step by step, honestly, and intentionally.
 
 ---
 
-### Tech I use
-- **Languages:** C, C++, Java (basic)
-- **Web:** HTML, CSS
-- **Tools:** Git, GitHub, VS Code
+### Academic Focus
+
+- Discrete Mathematics  
+- Digital Logic Design  
+- Data Structures & Algorithms (C++)  
+
+I enjoy understanding **why things work**, not just how to use them.
 
 ---
 
-### GitHub activity
+### Technical Stack
+
+**Comfortable with**
+- C  
+- Java  
+- Discrete Mathematics  
+
+**Currently learning**
+- C++ (with DSA)
+- HTML, CSS, Tailwind CSS
+- JavaScript (Node.js)
+- React & Next.js
+- Firebase
+- MongoDB & Express.js
+
+---
+
+### Learning Philosophy
+
+- Build fundamentals first  
+- Write readable, maintainable code  
+- Learn by implementing, breaking, and fixing  
+- Stay consistent instead of chasing trends  
+
+Progress matters more to me than speed.
+
+---
+
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahatX&show_icons=true&hide_title=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahatX&show_icons=true&theme=dark&hide_title=true" />
 </p>
 
 <p align="center">
@@ -51,5 +76,7 @@ Currently focusing on writing cleaner code and understanding how real-world syst
 ---
 
 <p align="center">
-  <sub>Learning consistently, improving quietly.</sub>
+  <sub>
+    Building skills quietly. Letting results speak.
+  </sub>
 </p>
