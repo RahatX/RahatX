@@ -18,25 +18,40 @@
 
 ### Overview
 
-I’m a computer science student who values **clarity, consistency, and depth** over shortcuts.  
-I approach programming as a long-term craft — learning fundamentals properly, writing readable code, and improving through repetition.
+I am a computer science student focused on building a **strong foundation in software engineering**.  
+I prioritize **clean code, problem-solving, and long-term growth** over quick results.
 
-I’m particularly interested in how small, well-written pieces of code scale into reliable systems.
-
----
-
-### Current focus
-- Strengthening problem-solving and algorithmic thinking  
-- Building a solid foundation in software development  
-- Writing cleaner, more maintainable code  
-- Learning how real-world applications are structured  
+I enjoy breaking down problems, understanding how systems work under the hood, and improving through consistent practice.
 
 ---
 
-### Technical background
+### Technical skills
 - **Languages:** C, C++, Java (foundational)
 - **Web:** HTML, CSS
 - **Tools:** Git, GitHub, VS Code
+- **Concepts:** Data structures (basic), problem-solving, version control
+
+---
+
+### Selected projects
+
+> *Projects listed reflect learning depth, not hype.*
+
+**🔹 Programming Practice Repository**  
+A structured collection of solved problems focused on improving algorithmic thinking and coding fundamentals.  
+Emphasis on readable solutions and incremental improvement.  
+→ *C / C++*
+
+**🔹 Basic Web Pages**  
+A set of simple, responsive web pages built using semantic HTML and modern CSS practices.  
+Focused on layout, structure, and clarity rather than visual noise.  
+→ *HTML, CSS*
+
+**🔹 Academic Coursework & Experiments**  
+University assignments and experiments exploring programming concepts, logic building, and basic system behavior.  
+→ *C, Java*
+
+> *(As projects grow, this section scales naturally — no redesign needed.)*
 
 ---
 
@@ -52,11 +67,18 @@ I’m particularly interested in how small, well-written pieces of code scale in
 
 ---
 
+### What I bring
+- Strong fundamentals and learning discipline  
+- Clear communication through code  
+- Willingness to learn, iterate, and improve  
+- Long-term mindset toward software engineering
+
+---
+
 ### Philosophy
 
-> *Progress comes from showing up consistently, even when no one is watching.*
+> *Consistency compounds faster than motivation.*
 
 <p align="center">
-  <sub>Focused on long-term growth.</sub>
+  <sub>Focused on fundamentals. Open to opportunities.</sub>
 </p>
-
