@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahatx/">linkedin</a> ·
+  <a href="https://www.linkedin.com/in/rahatx/">Linkedin</a> ·
   <a href="https://github.com/RahatX">GitHub</a> ·
   <a href="https://www.facebook.com/raahaaaatt">Facebook</a> ·
   <a href="https://www.instagram.com/your_rahaat">Instagram</a> ·
