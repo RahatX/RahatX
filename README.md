@@ -22,7 +22,7 @@
 ### Introduction
 
 I’m a university student at **North South University**, currently building a strong foundation in computer science and software development.  
-I value **clarity over shortcuts**, and I’m focused on learning concepts deeply rather than rushing tools.
+I value <strong>clarity over shortcuts</strong>, and I’m focused on learning concepts deeply rather than rushing tools.
 
 This profile documents my learning journey — step by step, honestly, and intentionally.
 
