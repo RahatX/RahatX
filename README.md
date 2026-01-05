@@ -28,7 +28,6 @@ This profile documents my learning journey — step by step, honestly, and inten
 ---
 
 <h3>Academic Focus</h3>
-Discrete Mathematics
   
 - <b>Digital Logic Design</b>
 - <b>Data Structures & Algorithms (C++) </b> 
